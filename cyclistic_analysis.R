@@ -2,7 +2,7 @@
 # CYCLISTIC BIKE-SHARE ANALYSIS | 2025
 # Statistical Analysis & Visualization
 # Tool: R (tidyverse, ggplot2, lubridate)
-# Author: P.L.U.
+# Author: jeankash
 # Last Updated: June 2025
 # =============================================================================
 # ANALYSIS OVERVIEW
