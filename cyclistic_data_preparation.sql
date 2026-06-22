@@ -2,7 +2,7 @@
 -- CYCLISTIC BIKE-SHARE ANALYSIS | 2025
 -- Data Preparation & Cleaning Pipeline
 -- Tool: Google BigQuery (Standard SQL)
--- Author: P.L.U.
+-- Author: jeankash
 -- Last Updated: June 2025
 -- =============================================================================
 -- PIPELINE OVERVIEW
